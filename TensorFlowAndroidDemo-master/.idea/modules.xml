@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/TensorFlowAndroidDemo-master.iml" filepath="$PROJECT_DIR$/.idea/modules/TensorFlowAndroidDemo-master.iml" group="TensorFlowAndroidDemo-master" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TensorFlowAndroidDemo-master-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TensorFlowAndroidDemo-master-app.iml" group="TensorFlowAndroidDemo-master/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/multiTfTest-TensorFlowAndroidDemo-master.iml" filepath="$PROJECT_DIR$/.idea/modules/multiTfTest-TensorFlowAndroidDemo-master.iml" group="TensorFlowAndroidDemo-master" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/multiTfTest-TensorFlowAndroidDemo-master-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/multiTfTest-TensorFlowAndroidDemo-master-app.iml" group="TensorFlowAndroidDemo-master/app" />
     </modules>
   </component>
 </project>
